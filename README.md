@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Best_Neighborhood
 Final Project for Big Ideas: Finding the best Neightborhood in the Pittbsurgh area
 
@@ -20,4 +19,3 @@ Final Project for Big Ideas: Finding the best Neightborhood in the Pittbsurgh ar
 [enviornment.csv](https://data.wprdc.org/dataset/pgh/resource/14501cb9-308d-49ce-8bbb-7933ad703fe1)  
 
 # Our Algorithm
->>>>>>> 128dac3d104dc5bf24d6d01076542df9d31c0816
