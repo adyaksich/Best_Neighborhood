@@ -1,5 +1,6 @@
 # Best_Neighborhood
-Final Project for Big Ideas: Finding the best Neightborhood in the Pittbsurgh area
+Final Project for Big Ideas:  
+Finding the best Neightborhood in the Pittbsurgh area
 
 # Link to data files
 [crime.csv](https://data.wprdc.org/dataset/pgh/resource/204f63f4-296f-4f1d-bbdd-946b183fa5a0)  
@@ -9,4 +10,20 @@ Final Project for Big Ideas: Finding the best Neightborhood in the Pittbsurgh ar
 [transportation.csv](https://data.wprdc.org/dataset/pgh/resource/5d61b60b-bd25-4c33-8420-e31a9135ec6e)  
 [medical care.csv](https://data.wprdc.org/dataset/allegheny-county-primary-care-facilities/resource/a11c31cf-a116-4076-8475-c4f185358c2d?view_id=faec2f01-cafe-4b7a-9867-e07e9e8b072b)
 
-# Our Algorithm
+# Our Metrics: Sort by Relativity
+## Crime
+
+## % of population enrolled in school
+
+
+## Employment
+employment.csv  
+unemployment per neighborhood
+
+## Access to public transportation
+transportation.csv  
+Street density per neighborhood
+
+## Access to medical care
+medical care.csv  
+Looking at all hospitals and primary care facilities. Reasoned that it is almost impossible to not get medical care near area of Pittsburgh.
